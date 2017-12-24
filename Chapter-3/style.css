@@ -1,7 +1,19 @@
 #wrapper {margin:auto; width:1024px; border:2px blue solid;}
 header {height: 50px; text-align:center; color:white ;background;yellow}
 
-body {background-color: #3498db; color: white;}
+body {background-color: #3498db; color: white; }
 h1 {font-size:22pt; font-weight:bold; text-align:center;}
 h2 {font-size:22pt; font-weight:bold; text-align:center;}
-p{font-size: 14pt; text-align:center;}
+p{font-size: 14pt; text-align:center; color:#cce6ff}
+
+
+/* a : Hyperlink*/
+ a:link {
+color: #FAFAFA;
+}
+a:visited {
+color: #A4A4A4;
+}
+a:hover {
+color: #64FE2E;
+} 
