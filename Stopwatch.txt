@@ -1,5 +1,0 @@
-﻿#	Label	Interval	Total	Recorded
-	Start	---	---	ven 22 déc 2017, 13 h 53 m 49.090
-1
-6	Pause	00:20:11.723	+++00:43:06.269+++	ven 22 déc 2017, 15 h 01 m 27.064
-
