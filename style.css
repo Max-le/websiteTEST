@@ -1,19 +1,37 @@
 #wrapper {margin:auto; width:1024px; border:2px blue solid;}
 header {height: 50px; text-align:center; color:white ;background;yellow}
 
-body {background-color: #3498db; color: white; }
-h1 {font-size:22pt; font-weight:bold; text-align:center;}
-h2 {font-size:22pt; font-weight:bold; text-align:center;}
-p{font-size: 13pt; text-align:center; color:#cce6ff}
+body {
+	background-color: #3498db;
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+}
+h1 {
+	font-size:26pt; 
+	font-weight:bold; 
+	text-align:center;
+}
 
+h2 {
+	font-size:25pt; 
+	font-weight:bold; 
+	text-align:center;
+}
+
+p{
+	font-size: 14pt;
+	text-align:center;
+	color:#cce6ff;
+	font-family: 'Acme', sans-serif;
+}
 
 /* a : Hyperlink*/
- a:link {
-color: white;
+a:link {
+	color: white;
 }
 a:visited {
-color: #f2f2f2;
+	color: #f2f2f2;
 }
 a:hover {
-color: #cce5ff;
+	color: #cce5ff;
 } 
