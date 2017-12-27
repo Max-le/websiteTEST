@@ -2,7 +2,8 @@
 header {height: 50px; text-align:center; color:white ;background;yellow}
 
 body {
-	background-color: #3498db;
+	/*background-color: #3498db;*/
+	background: url("http://lorempixel.com/1200/1000/cats");
 	color: white;
 	font-family: 'Open Sans', sans-serif;
 }
@@ -37,6 +38,6 @@ a:hover {
 } 
 
 div  {
-    
+
 
 }
