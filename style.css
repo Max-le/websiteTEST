@@ -3,14 +3,17 @@ header {height: 50px; text-align:center; color:white ;background;yellow}
 
 body {
 	/*background-color: #3498db;*/
-	background: url("http://lorempixel.com/1200/1000/cats");
+	background:  url(tram.jpg) ;
 	color: white;
 	font-family: 'Open Sans', sans-serif;
+	background-attachment:fixed;
+	background-repeat: no-repeat;
 }
 h1 {
 	font-size:26pt; 
 	font-weight:bold; 
 	text-align:center;
+	color: #0066ff;
 }
 
 h2 {
